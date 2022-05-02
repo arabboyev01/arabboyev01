@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arabboyev01
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning javascript programming language
+- 🌱 I’m Frontend developer.
 - 💞️ I’m looking to collaborate on Fornt End devolopment
 - 📫 How to reach me abbosarabboyev9@gmail.com
 
