@@ -99,12 +99,12 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <br/>
-
+<!-- 
 ## Top Open Source -
 [![Course Project BACKEND](https://github-readme-stats.vercel.app/api/pin/?username=arabboyev01&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/arabboyev01/course_project.git)
 [![Course Project FRONTEND](https://github-readme-stats.vercel.app/api/pin/?username=arabboyev01&repo=al-folio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/arabboyev01/Course_Front.git)
 [![Abbosbek's Readme](https://github-readme-stats.vercel.app/api/pin/?username=arabboyev01&repo=alsiam&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/arabboyev01/personal_portfolio.git)
-[![Al Siam Teminal](https://github-readme-stats.vercel.app/api/pin/?arabboyev01=alsiam&repo=alsiam.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/arabboyev01/Portolio.git)
+[![Al Siam Teminal](https://github-readme-stats.vercel.app/api/pin/?arabboyev01=alsiam&repo=alsiam.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/arabboyev01/Portolio.git) -->
 
 <p align="left">
   <a href="https://github.com/arabboyev01?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
