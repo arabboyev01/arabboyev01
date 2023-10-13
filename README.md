@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
  </a> 
  <a href="https://leetcode.com/arabboyev_" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-F0DB4F?style=for-the-badge&logo=leetcode&logoColor=white" alt="alsiam"  />
+  <img src="https://img.shields.io/badge/LeetCode-F0DB4F?style=for-the-badge&logo=leetcode&logoColor=#000" alt="alsiam"  />
   </a> 
 </p>
 <br />
