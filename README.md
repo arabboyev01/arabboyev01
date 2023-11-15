@@ -2,7 +2,6 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=arabboyev01&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor"  />
 </a>
 <!-- [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/waka_e14e1222-0a64-4c61-a662-e3bbbe762328) -->
-
 <h3 align="center">
         <samp>&gt; Hey There!, I am <b><a target="_blank" href="https://me-abbos.netlify.app">Abbosbek Arabboev</a></b> </samp>
 </h3>
