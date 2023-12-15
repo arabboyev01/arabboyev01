@@ -12,7 +12,7 @@
     「 I am a full stack web application developer from <b>Uzbekistan</b> 」
     <br>
     <br>
-  </samp>
+  </samp> 
 </p>
 <p align="center">
  <a href="https://me-abbos.netlify.app" target="blank">
