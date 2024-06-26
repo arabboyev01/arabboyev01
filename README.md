@@ -38,7 +38,7 @@
  # About me
  
 <p>
- <!-- <img align="right" width="350" src="https://www.dropbox.com/scl/fi/yy85ftx6kqiyhvfrksi8x/kisspng-computer-programming-programmer-icon-design-softwa-coder-png-transparent-image-5a756d89c09351.0972296815176451937888.png?rlkey=98s74bs89k33qbtasea4c1hll&dl=0" alt="Coding gif" /> --->
+ <!-- <img align="right" width="350" src="https://www.dropbox.com/scl/fi/yy85ftx6kqiyhvfrksi8x/kisspng-computer-programming-programmer-icon-design-softwa-coder-png-transparent-image-5a756d89c09351.0972296815176451937888.png?rlkey=98s74bs89k33qbtasea4c1hll&dl=0" alt="Coding gif" /> ---> 
   
  ✌️ &emsp; Enjoy to do programming and and coding <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
