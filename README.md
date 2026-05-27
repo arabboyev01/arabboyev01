@@ -17,7 +17,7 @@
   </samp> 
 </p>
 <p align="center">
- <a href="https://me-abbos.netlify.app" target="blank">
+ <a href="https://abbos.me" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="abbosbek" />
  </a>
  <a href="https://www.linkedin.com/in/arabboev" target="_blank">
