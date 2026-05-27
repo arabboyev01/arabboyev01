@@ -9,7 +9,7 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=a.arabboev_">「 Google Me 」</a>
+    <a href="https://www.google.com/search?q=Abbosbek Arabboev">「 Google Me 」</a>
     <br>
     「 I am a full stack web application developer from <b>Uzbekistan</b> 」
     <br>
