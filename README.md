@@ -43,7 +43,7 @@
   
  ✌️ &emsp; Enjoy to do programming and and coding <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Email: abbosarabboyev9@gmail.com<br/><br/>
+ 📧 &emsp; Email: contact@abbos.me<br/><br/>
 
 </p>
 
